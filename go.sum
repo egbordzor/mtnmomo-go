@@ -8,6 +8,8 @@ github.com/NdoleStudio/ynote-go v0.0.4 h1:uBpx10WXO46iKpOkWgH/3Jgbqs7dRIi2K6cigP
 github.com/NdoleStudio/ynote-go v0.0.4/go.mod h1:NNTFn8FQ8vv7NzAKSQRC0rOagH3B6M791n8VWu3HlMI=
 github.com/NdoleStudio/ynote-go v0.0.5 h1:d/PDLCKJNjZa8dlBGXq0vQYIXk/lWqytfN6kn5Awngo=
 github.com/NdoleStudio/ynote-go v0.0.5/go.mod h1:NNTFn8FQ8vv7NzAKSQRC0rOagH3B6M791n8VWu3HlMI=
+github.com/NdoleStudio/ynote-go v0.0.6 h1:pwsgfkJ+ialtyvJyPUuEOgwmgjrYKN0lCMPd4+1u7FY=
+github.com/NdoleStudio/ynote-go v0.0.6/go.mod h1:NNTFn8FQ8vv7NzAKSQRC0rOagH3B6M791n8VWu3HlMI=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2 h1:ZBbLwSJqkHBuFDA6DUhhse0IGJ7T5bemHyNILUjvOq4=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2/go.mod h1:VSw57q4QFiWDbRnjdX8Cb3Ow0SFncRw+bA/ofY6Q83w=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -41,6 +43,8 @@ golang.org/x/sys v0.29.0 h1:TPYlXGxvx1MGTn2GiZDhnjPA9wZzZeGKHHmKhHYvgaU=
 golang.org/x/sys v0.29.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/sys v0.33.0 h1:q3i8TbbEz+JRD9ywIRlyRAQbM0qF7hu24q3teo2hbuw=
 golang.org/x/sys v0.33.0/go.mod h1:BJP2sWEmIv4KK5OTEluFJCKSidICx8ciO85XgH3Ak8k=
+golang.org/x/sys v0.36.0 h1:KVRy2GtZBrk1cBYA7MKu5bEZFxQk4NIDV6RLVcC8o0k=
+golang.org/x/sys v0.36.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
